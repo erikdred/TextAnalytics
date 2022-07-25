@@ -1,3 +1,12 @@
+Android | iOS | Windows
+--- | :---: | ---:
+App for Android |  App for iOS | App for Windows
+Another Android item | Another iOS item | Another Windows item
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | wwwwwwwwwww
+[google.com](https://www.google.com) | [apple.com](https://www.apple.com) | [microsoft.com](https://www.microsoft.com)
+![](https://1000logos.net/wp-content/uploads/2016/10/Android-Logo-2008.png "Hover Text") | ![](https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/1161px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png)
+
+
 ~~Lorem ipsum __fractal__ idiots _entering_ the rabbit whole.~~
 
 > this **_is_** a quote
